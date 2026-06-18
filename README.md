@@ -76,9 +76,38 @@
 <br>
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=MdAmiruddin&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
+```markdown
+## 🏠 StayFinder – Travel Stay Platform
 
- 
+A complete travel stay platform designed to help users find, book, and manage accommodations easily.
+
+### ✨ Key Features
+
+🔍 Search Properties
+
+🏡 Property Listings
+
+📅 Booking Management
+
+👤 User Profiles
+
+🏠 Host Dashboard
+
+🛡️ Admin Panel
+
+📍 Location-Based Search
+
+⭐ Ratings & Reviews
+
+### 🛠️ Technologies
+
+HTML • CSS • JavaScript • C# • SQL Server
+
+### 📚 Status
+
+🚀 Currently under development
+```
+
 <br>
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> My Github Contribution </b>
