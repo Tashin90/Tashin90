@@ -68,7 +68,7 @@
 
 # 📊 GitHub Stats:
 ![Tashin's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tashin90&show_icons=true&theme=tokyonight)
-![](https://github-readme-streak-stats.herokuapp.com/?user=MdAmiruddin&theme=tokyonight&hide_border=false)<br/>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Tashin90&layout=compact&theme=tokyonight)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Tashin90&theme=tokyonight)
 <br>
 ### ✍️ Random Dev Quote
