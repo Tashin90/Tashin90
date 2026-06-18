@@ -76,7 +76,6 @@
 <br>
 
 ### 🔝 Top Contributed Repo
-```markdown
 ## 🏠 StayFinder – Travel Stay Platform
 
 A complete travel stay platform designed to help users find, book, and manage accommodations easily.
