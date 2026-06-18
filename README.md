@@ -5,7 +5,7 @@
 </h1>
 
 
-<h1 align="center"><b>Hi , I'm Md Amiruddin </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center"><b>Hi , I'm Md Naimul Haque </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Cybersecurity+Student,;Bug+Bounty+Hunter,;Content+Writer,;Active+Learner/Researcher..<3"></a>
@@ -20,15 +20,17 @@
 
 
 
-- 👋 Hi, I’m @MdAmiruddin
-- 👀 I’m a CyberSecurity Enthusiast.
-- 🌱 I’m currently learning with Google.
-- 💞️ I’m looking to collaborate with cybersecurity python projects.
-- 📫 How to reach me .. By my youtube [channel](https://bit.ly/3yeJeS9).
-- 📝 I write CTF [Blog](https://mdamiruddin.github.io) and articles on [Medium](https://mdamiruddin.medium.com).
+- 👋 Hi, I'm **@Tashin90**
+- 🎓 CSE Student
+- 💻 Web Developer | 🔬 Aspiring Researcher
+- 🌱 I’m currently learning with Google or AI.
+- 🌱 Currently learning HTML, CSS, JavaScript, C# and SQL
+- 🚀 Working on StayFinder Project
+- 🤝 Looking to collaborate on Web Development Projects
+- 📚 Always learning new technologies
+- ⭐ Learning new technologies everyday to become better than my past self.
 - Feel free to connect with me on Linkedin.
-- Learning new technologies everyday to become better than my past self.
- 
+
  
 <br>
 
@@ -80,15 +82,15 @@
 <br>
 
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mdamiruddin) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://mdamiruddin.medium.com) 
+# 🌐 Connect With Me
+- GitHub: https://github.com/Tashin90
+- Email: mdnaimulhaquetashin@gmail.com
 
-<br>
+ ---
+ ### ⭐ Thanks for visiting my profile!
+ 
+ ### 🚀 Keep Learning, Keep Building!
+
+![](https://visitcount.itsvg.in/api?id=Tashin90&icon=5&color=12)
   
-## 💰 You can help me by Donating
-  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/mdamiruddin) [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://www.paypal.me/mdamiruddin07) 
 
-<br>
-<br>
-
-![](https://visitcount.itsvg.in/api?id=MdAmiruddin&icon=2&color=1)
