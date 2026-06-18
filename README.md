@@ -36,17 +36,14 @@
 
 
 
-## :triangular_flag_on_post: CTF profiles:
-
-<div align="center">
- <a href="https://tryhackme.com/p/lordofficial"><img src="https://tryhackme-badges.s3.amazonaws.com/lordofficial.png" alt="TryHackMe"></a>
- <a href="https://app.hackthebox.com/profile/1188714"><img src="https://www.hackthebox.com/badge/image/1188714" alt="HackTheBox"></a>
-</div>
-
-
-
-
-
+# 📂 Current Projects
+- 🏠 StayFinder
+- 💻 Personal Portfolio Website
+- 📚 Academic Projects
+- 🌐 Web Technology Lab Task
+- 🤖 Machine Learning Project
+- 📚 Academic Research Projects
+ 
 # 💻 Tech Stack:
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=plastic&logo=html5&logoColor=white)
@@ -70,9 +67,9 @@
 <br>
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=MdAmiruddin&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![Tashin's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tashin90&show_icons=true&theme=tokyonight)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=MdAmiruddin&theme=tokyonight&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=MdAmiruddin&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Tashin90&theme=tokyonight)
 <br>
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
