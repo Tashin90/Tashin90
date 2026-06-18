@@ -1,77 +1,90 @@
-<h1 align="Center">
-    <br>
-    Welcome to My Github Profile
-    <br>
+```md
+<h1 align="center">
+  Welcome To My GitHub Profile
 </h1>
 
-<h1 align="center"><b>Hi , I'm Tashin Haque </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center">
+  Hi 👋, I'm Tashin Haque
+</h1>
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=CSE+Student,;Web+Developer,;HTML+CSS+JavaScript,;Active+Learner/Researcher..<3"></a>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&size=28&duration=3000&color=00FFFF&center=true&vCenter=true&width=900&lines=CSE+Student;Web+Developer;StayFinder+Developer;HTML+CSS+JavaScript;Learning+C%23+and+SQL;Always+Learning+New+Things">
 </p>
 
-## <picture><img src = "https://github.com/MdAmiruddin/MdAmiruddin/blob/main/Assets/about_me.gif" width = 50px></picture> **About me**
+<hr>
 
-<picture> <img align="right" src="https://media.giphy.com/media/HW3T1wWW3z2F2cpXO/giphy.gif"></picture>
+# 👨‍💻 About Me
 
-<br>
+<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
-* 👋 Hi, I’m @Tashin90
-* 👀 I’m a Web Development Enthusiast.
-* 🌱 I’m currently learning HTML, CSS, JavaScript, C# and SQL.
-* 💞️ I’m looking to collaborate with web development projects.
-* 📫 How to reach me .. Through GitHub.
-* 📝 Working on StayFinder and academic projects.
-* Feel free to connect with me.
-* Learning new technologies everyday to become better than my past self.
+- 👋 Hi, I'm **@Tashin90**
+- 🎓 CSE Student
+- 💻 Passionate Web Developer
+- 🌱 Currently learning HTML, CSS, JavaScript, C# and SQL
+- 🚀 Working on StayFinder Project
+- 🤝 Looking to collaborate on Web Development Projects
+- 📚 Always learning new technologies
+- ⭐ Trying to become better every day
 
-<br>
+<br><br><br><br><br><br>
 
-## :triangular_flag_on_post: CTF profiles:
+# 💻 Tech Stack
 
-<div align="center">
- <a href="https://tryhackme.com/p/lordofficial"><img src="https://tryhackme-badges.s3.amazonaws.com/lordofficial.png" alt="TryHackMe"></a>
- <a href="https://app.hackthebox.com/profile/1188714"><img src="https://www.hackthebox.com/badge/image/1188714" alt="HackTheBox"></a>
-</div>
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=plastic&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=plastic&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=plastic&logo=javascript&logoColor=black)
+![C](https://img.shields.io/badge/C-00599C?style=plastic&logo=c&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=plastic&logo=c-sharp&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=plastic&logo=microsoftsqlserver&logoColor=white)
 
-# 💻 Tech Stack:
+![Git](https://img.shields.io/badge/Git-F05032?style=plastic&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=plastic&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=plastic&logo=visual-studio-code&logoColor=white)
 
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic\&logo=java\&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic\&logo=html5\&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic\&logo=javascript\&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=plastic\&logo=python\&logoColor=ffdd54) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=plastic\&logo=amazon-aws\&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=plastic\&logo=Cloudflare\&logoColor=white) ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=plastic\&logo=google-cloud\&logoColor=white) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=plastic\&logo=heroku\&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=plastic\&logo=apache\&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=plastic\&logo=mongodb\&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=plastic\&logo=sqlite\&logoColor=white) ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=plastic\&logo=linux\&logoColor=black) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=plastic\&logo=docker\&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=plastic\&logo=postman\&logoColor=white) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=plastic\&logo=firefox\&logoColor=#FF7139) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic\&logo=css3\&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=plastic\&logo=markdown\&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=plastic\&logo=php\&logoColor=white) ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=plastic\&logo=gnu-bash\&logoColor=white)
+---
 
-<br>
+# 📂 Current Projects
 
-# 📊 GitHub Stats:
+- 🏠 StayFinder
+- 🌐 Web Technology Lab Tasks
+- 📘 GitHub Portfolio
+- 📚 Academic Projects
 
-![](https://github-readme-stats.vercel.app/api?username=Tashin90\&theme=tokyonight\&hide_border=false\&include_all_commits=true\&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Tashin90\&theme=tokyonight\&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Tashin90\&theme=tokyonight\&hide_border=false\&include_all_commits=true\&count_private=true\&layout=compact)
+---
 
-<br>
+# 📊 GitHub Stats
 
-### ✍️ Random Dev Quote
+![Tashin's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tashin90&show_icons=true&theme=tokyonight)
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal\&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Tashin90&layout=compact&theme=tokyonight)
 
-<br>
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Tashin90&theme=tokyonight)
 
-### 🔝 Top Contributed Repo
+---
 
-![](https://github-contributor-stats.vercel.app/api?username=Tashin90\&limit=5\&theme=tokyonight\&combine_all_yearly_contributions=true)
+# 🔥 GitHub Contribution Graph
 
-<br>
+[![Tashin's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Tashin90&theme=tokyo-night)](https://github.com/Tashin90)
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> My Github Contribution </b>
+---
 
-<div align="center">
-  <img src="https://github.com/MdAmiruddin/MdAmiruddin/blob/main/Assets/gridsnake.svg" alt="snake" />
-</div>
+# ✍️ Random Dev Quote
 
-<br>
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
-## 🌐 Socials:
+---
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github\&logoColor=white)](https://github.com/Tashin90)
+# 🌐 Connect With Me
 
-<br><br>
+- GitHub: https://github.com/Tashin90
+- Email: mdnaimulhaquetashin@gmail.com
 
-![](https://visitcount.itsvg.in/api?id=Tashin90\&icon=2\&color=1)
+---
+
+### ⭐ Thanks for visiting my profile!
+
+### 🚀 Keep Learning, Keep Building!
+
+![](https://visitcount.itsvg.in/api?id=Tashin90&icon=5&color=12)
+```
+
