@@ -23,7 +23,7 @@
 
 <td>
 
-<img src="https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif" width="520"/>
+<img src="https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif" width="420"/>
 
 </td>
 </tr>
