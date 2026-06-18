@@ -7,11 +7,10 @@
 
 <h1 align="center"><b>Hi , I'm Md Naimul Haque </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
-html
+```html
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&size=30&duration=3000&color=36BCF7&center=true&vCenter=true&width=800&lines=Active+Learner">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&size=28&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=900&lines=Active+Learner;Web+Developer;Aspiring+Researcher;CSE+Student;StayFinder+Developer">
 </p>
-
 
 
 
