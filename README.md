@@ -7,10 +7,10 @@
 
 <h1 align="center"><b>Hi , I'm Md Naimul Haque </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
+```html
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Cybersecurity+Student,;Bug+Bounty+Hunter,;Content+Writer,;Active+Learner/Researcher..<3"></a>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&size=30&duration=3000&color=36BCF7&center=true&vCenter=true&width=800&lines=Active+Learner">
 </p>
-
 
 
 ## <picture><img src = "https://github.com/MdAmiruddin/MdAmiruddin/blob/main/Assets/about_me.gif" width = 50px></picture> **About me**
