@@ -2,21 +2,34 @@
 
 <h1 align="center">Hi , I'm Tashin Haque 👋</h1>
 
----
+<hr>
 
 ## 🕵️ About me
 
-<img align="right" width="400" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif">
+<table>
+<tr>
+<td>
 
-* 👋 Hi, I’m @Tashin90
+* 👋 Hi, I'm **@Tashin90**
 * 🎓 I'm a CSE Student
-* 🌱 I'm currently learning HTML, CSS, JavaScript, C# and SQL
-* 💞️ Looking to collaborate on Web Development Projects
-* 📫 How to reach me: GitHub
+* 💻 I'm a Web Development Enthusiast
+* 🌱 Currently learning HTML, CSS, JavaScript, C# and SQL
 * 🚀 Working on StayFinder Project
+* 💞 Looking to collaborate on web projects
 * 📚 Learning new technologies every day
+* ⭐ Trying to become better than yesterday
 
-<br><br>
+</td>
+
+<td>
+
+<img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="420"/>
+
+</td>
+</tr>
+</table>
+
+---
 
 # 💻 Tech Stack:
 
@@ -28,20 +41,21 @@
 ![SQL Server](https://img.shields.io/badge/sql%20server-CC2927?style=for-the-badge\&logo=microsoftsqlserver\&logoColor=white)
 ![Git](https://img.shields.io/badge/git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-181717?style=for-the-badge\&logo=github\&logoColor=white)
+![VS Code](https://img.shields.io/badge/vscode-007ACC?style=for-the-badge\&logo=visualstudiocode\&logoColor=white)
 
 ---
 
 # 📊 GitHub Stats:
 
-![](https://github-readme-stats.vercel.app/api?username=Tashin90\&theme=tokyonight\&hide_border=false\&include_all_commits=true\&count_private=true)
+![](https://github-readme-stats.vercel.app/api?username=Tashin90\&theme=tokyonight\&show_icons=true\&count_private=true)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Tashin90\&theme=tokyonight\&hide_border=false\&include_all_commits=true\&count_private=true\&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Tashin90\&theme=tokyonight\&layout=compact)
 
 ---
 
 # 🔥 GitHub Streak:
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=Tashin90\&theme=tokyonight)
+![](https://streak-stats.demolab.com?user=Tashin90\&theme=tokyonight)
 
 ---
 
@@ -63,11 +77,18 @@
 
 ---
 
-# 🌐 Socials:
+# 🌐 Connect With Me
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github)](https://github.com/Tashin90)
 
 ---
 
+# 👀 Profile Views
+
+![](https://komarev.com/ghpvc/?username=Tashin90\&color=blue)
+
+---
+
 ⭐ Thanks for visiting my profile!
+
 🚀 Keep Learning, Keep Building!
