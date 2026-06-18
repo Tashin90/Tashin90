@@ -20,7 +20,7 @@
 <br>
 
 
-- 👋 Hi, I'm **@Tashin**
+- 👋 Hi, I'm **Tashin**
 - 🎓 CSE Student
 - 💻 Web Developer | 🔬 Aspiring Researcher
 - 🌱 I’m currently learning with Google or AI.
