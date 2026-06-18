@@ -24,7 +24,7 @@
 - 🎓 CSE Student
 - 💻 Web Developer | 🔬 Aspiring Researcher
 - 🌱 I’m currently learning with Google or AI.
-- 🌱 Currently learning HTML, CSS, JavaScript, C# and SQL
+- 🌱 Currently learning HTML, CSS, JavaScript, C# and SQL,Advanced Data Structures & Algorithms
 - 🚀 Working on StayFinder Project
 - 🤝 Looking to collaborate on Web Development Projects
 - 📚 Always learning new technologies
