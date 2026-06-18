@@ -1,46 +1,47 @@
 <h1 align="Center">
-<br>
-Welcome To My GitHub Profile
-<br>
+    <br>
+    Welcome to My Github Profile
+    <br>
 </h1>
 
-<h1 align="center">
-<b>Hi, I'm Tashin Haque</b>
-<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
-</h1>
+<h1 align="center"><b>Hi , I'm Tashin Haque </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=CSE+Student;Web+Developer;HTML+CSS+JavaScript;Learning+C%23+and+SQL;Future+Software+Engineer">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Cybersecurity+Student,;Bug+Bounty+Hunter,;Content+Writer,;Active+Learner/Researcher..<3"></a>
 </p>
 
-## 🕵️ About Me
+## <picture><img src="https://github.com/MdAmiruddin/MdAmiruddin/blob/main/Assets/about_me.gif" width="50px"></picture> **About me**
 
 <picture>
-<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="420">
+<img align="right" src="https://media.giphy.com/media/HW3T1wWW3z2Ff2cpXO/giphy.gif">
 </picture>
 
-* 👋 Hi, I'm @Tashin90
-* 🎓 CSE Student
-* 💻 Web Development Enthusiast
-* 🌱 Currently learning HTML, CSS, JavaScript, C# and SQL
-* 🚀 Working on StayFinder Project
-* 🤝 Looking to collaborate on Web Projects
-* 📚 Learning new technologies every day
-* ⭐ Trying to become better than yesterday
+<br>
 
-<br><br>
+* 👋 Hi, I’m @Tashin90
+* 👀 I’m a CyberSecurity Enthusiast.
+* 🌱 I’m currently learning with Google.
+* 💞️ I’m looking to collaborate with cybersecurity python projects.
+* 📫 How to reach me.
+* 📝 I write articles and blogs.
+* Feel free to connect with me.
+* Learning new technologies everyday to become better than my past self.
+
+<br>
+
+## :triangular_flag_on_post: CTF profiles:
+
+<div align="center">
+ <a href="https://tryhackme.com"><img src="https://tryhackme-badges.s3.amazonaws.com/lordofficial.png" alt="TryHackMe"></a>
+ <a href="https://www.hackthebox.com"><img src="https://www.hackthebox.com/badge/image/1188714" alt="HackTheBox"></a>
+</div>
 
 # 💻 Tech Stack:
 
-![HTML5](https://img.shields.io/badge/html5-E34F26.svg?style=plastic\&logo=html5\&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-1572B6.svg?style=plastic\&logo=css3\&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-F7DF1E.svg?style=plastic\&logo=javascript\&logoColor=black)
-![C](https://img.shields.io/badge/C-00599C.svg?style=plastic\&logo=c\&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120.svg?style=plastic\&logo=c-sharp\&logoColor=white)
-![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927.svg?style=plastic\&logo=microsoftsqlserver\&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032.svg?style=plastic\&logo=git\&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717.svg?style=plastic\&logo=github\&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC.svg?style=plastic\&logo=visualstudiocode\&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic\&logo=java\&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic\&logo=html5\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic\&logo=javascript\&logoColor=%23F7DF1E)
+![Python](https://img.shields.io/badge/python-3670A0?style=plastic\&logo=python\&logoColor=ffdd54)
 
 <br>
 
@@ -66,9 +67,11 @@ Welcome To My GitHub Profile
 
 <br>
 
-## 📈 My GitHub Contribution
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> My Github Contribution </b>
 
-![](https://github-readme-activity-graph.vercel.app/graph?username=Tashin90\&theme=tokyo-night)
+<div align="center">
+<img src="https://github.com/MdAmiruddin/MdAmiruddin/blob/main/Assets/gridsnake.svg" alt="snake"/>
+</div>
 
 <br>
 
@@ -78,12 +81,5 @@ Welcome To My GitHub Profile
 
 <br>
 
-## 👀 Profile Views
-
 ![](https://visitcount.itsvg.in/api?id=Tashin90\&icon=2\&color=1)
 
-<br>
-
-⭐ Thanks for visiting my profile!
-
-🚀 Keep Learning, Keep Building!
