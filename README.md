@@ -105,14 +105,10 @@ HTML • CSS • JavaScript • C# • SQL Server
 ### 📚 Status
 
 🚀 Currently under development
-```
-
 <br>
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> My Github Contribution </b>
 <br>
-
-
 
 <div align="center">
   <a href="https://github.com/MdAmiruddin/MdAmiruddin">
@@ -125,7 +121,6 @@ HTML • CSS • JavaScript • C# • SQL Server
 </div>
 
 <br>
-
 
 # 🌐 Connect With Me
 - GitHub: https://github.com/Tashin90
