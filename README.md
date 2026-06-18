@@ -20,7 +20,7 @@
 <br>
 
 
-- 👋 Hi, I'm **@Tashin90**
+- 👋 Hi, I'm **@Tashin**
 - 🎓 CSE Student
 - 💻 Web Developer | 🔬 Aspiring Researcher
 - 🌱 I’m currently learning with Google or AI.
@@ -29,8 +29,7 @@
 - 🤝 Looking to collaborate on Web Development Projects
 - 📚 Always learning new technologies
 - ⭐ Learning new technologies everyday to become better than my past self.
-- Feel free to connect with me on Linkedin.
-
+- 📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/md-naimul-haque-tashin-1a7917344).
  
 <br>
 
