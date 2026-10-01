@@ -30,6 +30,8 @@
 - 📚 Always learning new technologies
 - ⭐ Learning new technologies everyday to become better than my past self.
 - 📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/md-naimul-haque-tashin-1a7917344).
+
+  - 🌐 Visit my <a href="https://my-portfolio-five-rouge-88hhc6zcpt.vercel.app/" target="_blank"><b>Portfolio</b></a>
  
 <br>
 
