@@ -34,7 +34,6 @@
 - <a href="https://my-portfolio-five-rouge-88hhc6zcpt.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/🚀_EXPLORE_MY_PORTFOLIO-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white&labelColor=161B22" alt="Explore My Portfolio" height="35"/>
   </a>
- 
 <br>
 
 
