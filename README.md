@@ -32,7 +32,7 @@
 - 📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/md-naimul-haque-tashin-1a7917344).
 
 - <a href="https://my-portfolio-five-rouge-88hhc6zcpt.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/🚀_EXPLORE_MY_PORTFOLIO-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white&labelColor=161B22" alt="Explore My Portfolio" height="35"/>
+    <img src="https://capsule-render.vercel.app/api?type=rounded&height=70&color=0:FF5E79,50:C04BED,100:318CF7&text=EXPLORE%20MY%20PORTFOLIO%20↗&fontColor=FFFFFF&fontSize=23&fontAlignY=50" alt="Explore My Portfolio"/>
   </a>
 <br>
 
