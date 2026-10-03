@@ -31,7 +31,7 @@
 - ⭐ Learning new technologies everyday to become better than my past self.
 - 📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/md-naimul-haque-tashin-1a7917344).
 
-- <a href="https://my-portfolio-five-rouge-88hhc6zcpt.vercel.app/" target="_blank">
+- <a href="https://naimulhaque.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/EXPLORE_MY_PORTFOLIO-00D4FF?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0061FF" height="38" alt="Explore My Portfolio"/>
   </a>
 <br>
